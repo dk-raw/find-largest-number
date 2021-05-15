@@ -1,2 +1,2 @@
-# find-largest-number
-Fing the largest number in an array
+# Find Largest Number C#
+Find the largest number in an array in C#
